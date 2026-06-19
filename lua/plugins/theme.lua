@@ -1,0 +1,1 @@
+/home/push3r/.config/omarchy/current/theme/neovim.lua
